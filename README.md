@@ -1,3 +1,3 @@
 # github-flow
 Thiis repository is for practicing GitHub Flow.
-It is not a repository about sscience or medicine.
+It is therefore a repository about both art and science.
